@@ -79,7 +79,8 @@ hr {
 .showcase {
   width: 100%;
   height: 550px;
-  background: url("./img/showcase2.jpg") no-repeat center center/cover;
+  background: url("https://i.imgur.com/KD74vKJ.jpg") no-repeat center
+    center/cover;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -146,7 +147,8 @@ hr {
 .cards-banner-one {
   width: 100%;
   height: 350px;
-  background: url("img/tech-red.jpg") no-repeat center center/cover;
+  background: url("https://i.imgur.com/RGMko24.jpg") no-repeat center
+    center/cover;
   margin-bottom: 40px;
 }
 
@@ -165,7 +167,8 @@ hr {
 .cards-banner-two {
   width: 100%;
   height: 350px;
-  background: url("img/image-five.jpg") no-repeat center center/cover;
+  background: url("https://i.imgur.com/4KTyxgQ.jpg") no-repeat center
+    center/cover;
 }
 
 .cards-banner-two .content {
